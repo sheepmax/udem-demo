@@ -11,3 +11,4 @@ parts:
 # END REMOVE-FROM-PUBLISH
     - file: references.md
     - file: credits.md
+    - file: newtondreams/demo.md
